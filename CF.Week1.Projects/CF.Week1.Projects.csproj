@@ -211,8 +211,6 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="css\prism.css" />
-    <Content Include="css\shCore.css" />
-    <Content Include="css\shThemeDefault.css" />
     <Content Include="css\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\fontawesome-webfont.svg" />
@@ -224,8 +222,6 @@
     <Content Include="js\factorial.js" />
     <Content Include="js\index.js" />
     <Content Include="js\prism.js" />
-    <Content Include="js\shBrushJScript.js" />
-    <Content Include="js\shCore.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="Scripts\bootstrap.js" />
